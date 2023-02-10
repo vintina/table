@@ -1,0 +1,16 @@
+h1 {
+    color: rgb(16, 101, 73);
+}
+
+caption {
+    font-size:40px ;
+    color: white;
+}
+
+body {
+    background-color:orangered!important;
+}
+
+span {
+    color: rgb(38, 248, 248);
+}
